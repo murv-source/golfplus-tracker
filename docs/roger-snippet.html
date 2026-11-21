@@ -1,0 +1,11 @@
+<!-- Golf+ latest results: paste into an HTML block on rogerkillion.com -->
+<iframe id="golfplus-latest" src="https://murv-source.github.io/golfplus-tracker/embed.html"
+  title="Golf+ latest results" loading="lazy"
+  style="width:100%;max-width:760px;height:360px;border:0;border-radius:16px;display:block"></iframe>
+<script>
+window.addEventListener('message', function (e) {
+  if (e.origin === 'https://murv-source.github.io' && e.data && e.data.golfplusHeight) {
+    document.getElementById('golfplus-latest').style.height = (e.data.golfplusHeight + 4) + 'px';
+  }
+});
+</script>
