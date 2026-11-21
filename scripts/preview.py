@@ -44,7 +44,7 @@ def main():
     key = build.norm(entry['course'])
     course = pretty.get(key) or re.sub(r'(?i)\s+new$', '', entry['course']).strip()
     par = par_by_key.get(key)
-    ms = [m for m in d['matches'] if m['date'] < day]
+    ms = [m for m in d['matches'] if m['date'] < day and m.get('official') != 'unofficial']
     if not ms:
         return {'status': 'no_data', 'text': None, 'facts': {}}
     dow = date.fromisoformat(day).strftime('%A')

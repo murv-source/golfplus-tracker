@@ -50,7 +50,7 @@ const fd=(d,o)=>new Date(d+'T12:00:00').toLocaleDateString('en-US',o||{weekday:'
 const wn=v=>Number.isInteger(v)?String(v):v.toFixed(1);
 const full=new URL('./',location.href).href;
 fetch('data.json?v='+Date.now()).then(r=>r.json()).then(d=>{
- const m=d.matches[d.matches.length-1],y=d.years[d.years.length-1],s=d.seasons[y];
+ const m=d.matches.filter(x=>x.official!=='unofficial').slice(-1)[0],y=d.years[d.years.length-1],s=d.seasons[y];
  const ord=P.slice().sort((a,b)=>{const A=m.players[a],B=m.players[b];if(A.status!=='played')return 1;if(B.status!=='played')return -1;return (A.toPar-B.toPar)||((m.win[b]||0)-(m.win[a]||0))});
  const rows=ord.map(p=>{const x=m.players[p];return `<div class="r"><div class="nm"><span class="dot" style="background:var(--${p})"></span>${N[p]}${(m.win[p]||0)>0?' <span class="win">'+(m.playoff?'WON PLAYOFF':'WIN')+'</span>':''}</div>${x.status==='played'?`<div class="g">${x.gross??''}</div><div class="tp">${tp(x.toPar)}</div>`:`<div></div><div class="ns">${x.status==='dnf'?'DNF':'No show'}</div>`}</div>`}).join('')
   +(m.guests||[]).map(g=>`<div class="r"><div class="nm" style="color:var(--muted)">${esc(g.name)} (guest)</div><div class="g">${g.gross??''}</div><div class="tp">${tp(g.toPar)}</div></div>`).join('');

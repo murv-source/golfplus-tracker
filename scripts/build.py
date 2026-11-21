@@ -277,6 +277,7 @@ def build():
     def start_min(r):
         t = datetime.fromisoformat(r['started'].replace('Z', '+00:00'))
         return t.hour * 60 + t.minute
+    rk_last = max((m['date'] for m in rk_real), default='0000')
     for a in sorted(anchors, key=lambda a: a['date']):
         rkm, trm = a['rk'], a['tr']
         hints = {}
@@ -306,9 +307,8 @@ def build():
             rres = next((x for x in rkm['results'] if FULL.get(x['name'].lower()) == p), None) if rkm else None
             tp = trm['players'].get(p) if trm else None
             gi0 = GROUP_INFO.get((d, key)) or {}
-            if g and p in gi0.get('dnf', ()) and g['mode'] != 'Multiplayer':
+            if g and p in gi0.get('dnf', ()) and g['mode'] != 'Multiplayer' and not rres:
                 players[p] = {'status': 'dnf'}
-                notes.append(f"GOLF+ has {NAMES[p]} as a DNF in the group game; he finished the round later in single player ({g['score']}, {g['score'] - g['par']:+d}).".replace('+0', 'E'))
             elif g:
                 players[p] = {'status': 'played', 'gross': g['score'], 'toPar': g['score'] - g['par'], 'holes': g['holeList'], 'src': 'golfplus'}
             elif tp and 'gross' in tp:
@@ -337,33 +337,25 @@ def build():
                 if c in played:
                     rk_order.append((x['pos'], x['tie'], c))
             rk_order.sort()
-        only_rk = all(players[p]['src'] == 'roger' for p in played)
         share, playoff = {}, False
-        if (only_rk or nine) and rk_order:
+        low = min(players[p]['toPar'] for p in played)
+        tied = [p for p in played if players[p]['toPar'] == low]
+        if rk_order:
+            # Roger's site decides the winner: best-placed core player in his listing
             top = [c for pos, tie, c in rk_order if pos == rk_order[0][0]]
             share = {c: round(1 / len(top), 3) for c in top}
+            playoff = len(top) == 1 and len(tied) > 1 and top[0] in tied
         else:
-            low = min(players[p]['toPar'] for p in played)
-            tied = [p for p in played if players[p]['toPar'] == low]
             gpos = {p: ginfo['pos'][p] for p in tied if p in ginfo.get('pos', {})}
             if len(tied) == 1:
                 share = {tied[0]: 1}
             elif len(gpos) == len(tied) and any(tb == 'playoff' for _, tb in gpos.values()):
                 w = [p for p, (pos, tb) in gpos.items() if tb == 'playoff' and pos == '1']
                 share = {w[0]: 1} if w else {c: round(1 / len(tied), 3) for c in tied}; playoff = bool(w)
-                if w and rk_order:
-                    rk_top = [c for pos, tie, c in rk_order if c in tied][:1]
-                    if rk_top and rk_top[0] != w[0]:
-                        notes.append(f"GOLF+ records {NAMES[w[0]]} winning the playoff; Roger's site lists {NAMES[rk_top[0]]} first.")
+            elif trm and trm['win'] in tied:
+                share = {trm['win']: 1}; playoff = True
             else:
-                order = [o for o in rk_order if o[2] in tied]
-                if order:
-                    top = [c for pos, tie, c in order if pos == order[0][0]]
-                    share = {c: round(1 / len(top), 3) for c in top}; playoff = len(top) == 1
-                elif trm and trm['win'] in tied:
-                    share = {trm['win']: 1}; playoff = True
-                else:
-                    share = {c: round(1 / len(tied), 3) for c in tied}
+                share = {c: round(1 / len(tied), 3) for c in tied}
         hp = None
         if any_gp:
             raw = any_gp['course'].replace(' ', '')
@@ -379,6 +371,7 @@ def build():
             'wind': any_gp and any_gp['wind'], 'greens': any_gp and any_gp['green'], 'yds': (any_gp and int(any_gp['yds'] or 0)) or None,
             'pro': pro, 'nine': nine, 'players': players, 'guests': guests, 'win': share, 'playoff': playoff,
             'notes': notes, 'src': [s for s, v in (('golfplus', byp), ('roger', rkm), ('tracker', trm)) if v],
+            'official': 'roger' if rkm else ('provisional' if d > rk_last else 'unofficial'),
         }
         matches.append(m)
     matches.sort(key=lambda m: m['date'])
@@ -526,7 +519,8 @@ def schedule(sched, par_by_key, pretty, today):
 
 
 def main():
-    matches, cancelled, sched, par_by_key, pretty = build()
+    allm, cancelled, sched, par_by_key, pretty = build()
+    matches = [m for m in allm if m['official'] != 'unofficial']
     now = datetime.now(timezone.utc)
     today = pt_date(now.isoformat().replace('+00:00', 'Z'))
     years = sorted({m['date'][:4] for m in matches})
@@ -536,14 +530,12 @@ def main():
     nxt = next((s for s in up if not s['noMatch']), None)
     if nxt:
         nxt['predict'] = predict(matches, nxt['key'], nxt['par'])
-    for m in matches:
-        m['predicted'] = None
     data = {
         'generatedAt': now.isoformat(timespec='seconds'), 'today': today,
         'players': {p: {'name': NAMES[p], 'handle': HANDLES[p]} for p in CORE},
         'seasons': seasons, 'years': years, 'streaks': streaks(matches),
         'form': {p: form(matches, p) for p in CORE}, 'courses': course_stats(matches), 'aces': aces(matches),
-        'schedule': up, 'next': nxt, 'cancelled': cancelled, 'matches': matches,
+        'schedule': up, 'next': nxt, 'cancelled': cancelled, 'matches': allm,
     }
     os.makedirs(os.path.join(ROOT, 'docs'), exist_ok=True)
     with open(os.path.join(ROOT, 'docs', 'data.json'), 'w') as f:

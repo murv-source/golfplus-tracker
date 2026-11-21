@@ -215,7 +215,7 @@ footer .wrap{border-top:1px solid var(--line);padding-top:18px}
  </section>
  <section id="rounds">
   <h2 class="sec">Round history</h2>
-  <p class="secsub">Tap a round for the scorecard. Guests show inside the round only and never count in standings.</p>
+  <p class="secsub">Tap a round for the scorecard. Roger's results page is the official record for wins and notes. Rounds newer than his page are provisional; group rounds his page doesn't list are unofficial and don't count. Guests never count in standings.</p>
   <div class="filters">
    <input id="q" type="search" placeholder="Search courses" aria-label="Search courses">
    <button class="chip" data-w="all" aria-pressed="true">All</button>
@@ -254,7 +254,7 @@ const fmtD=(d,o={month:'short',day:'numeric'})=>new Date(d+'T12:00:00').toLocale
 const wn=v=>Number.isInteger(v)?String(v):v.toFixed(1);
 let D=null,season=null,winF='all',shown=25,sortK='played',sortDir=-1;
 
-function seasonMatches(){return D.matches.filter(m=>season==='all'||m.date.startsWith(season));}
+function seasonMatches(all){return D.matches.filter(m=>(all||m.official!=='unofficial')&&(season==='all'||m.date.startsWith(season)));}
 
 function renderSeasons(){
  const ys=[...D.years].reverse();
@@ -386,8 +386,8 @@ function renderNext(){
 }
 
 function renderLast(){
- const m=D.matches[D.matches.length-1];
- $('lastCard').innerHTML=`<p class="eyebrow">Latest match · ${m.dow}, ${fmtD(m.date,{month:'long',day:'numeric',year:'numeric'})}</p>
+ const m=D.matches.filter(x=>x.official!=='unofficial').slice(-1)[0];
+ $('lastCard').innerHTML=`<p class="eyebrow">Latest match${m.official==='provisional'?' (provisional until Roger posts it)':''} · ${m.dow}, ${fmtD(m.date,{month:'long',day:'numeric',year:'numeric'})}</p>
  <h3 class="cname">${esc(m.course)}</h3><div class="meta">${metaPills(m)}</div>
  <div class="results">${resultRows(m)}</div>${scorecard(m)||(m.notes.length?`<p class="note">${esc(m.notes.join(' '))}</p>`:'')}`;
 }
@@ -415,12 +415,12 @@ function renderH2H(){
 
 function renderRounds(){
  const q=$('q').value.trim().toLowerCase();
- const list=seasonMatches().slice().reverse().filter(m=>(!q||m.course.toLowerCase().includes(q))&&(winF==='all'||m.win[winF]));
+ const list=seasonMatches(true).slice().reverse().filter(m=>(!q||m.course.toLowerCase().includes(q))&&(winF==='all'||m.win[winF]));
  const cancelled=(season==='all'?D.cancelled:D.cancelled.filter(c=>c.date.startsWith(season)));
  $('roundList').innerHTML=list.slice(0,shown).map(m=>{
   const ord=P.slice().sort((a,b)=>{const A=m.players[a],B=m.players[b];if(A.status!=='played')return 1;if(B.status!=='played')return -1;return (A.toPar-B.toPar)||((m.win[b]||0)-(m.win[a]||0))});
   return `<details class="rd"><summary><div class="dt"><b>${fmtD(m.date)}</b>${m.dow.slice(0,3)}${season==='all'?' '+m.date.slice(0,4):''}</div>
-  <div class="cn">${esc(m.course)}${m.pro?' <span class="tag pro">Pro</span>':''}<small>${[m.par?'Par '+m.par:'',m.tees?m.tees+' tees':'',m.pins?m.pins+' pins':''].filter(Boolean).join(' · ')}</small></div>
+  <div class="cn">${esc(m.course)}${m.pro?' <span class="tag pro">Pro</span>':''}${m.official==='unofficial'?' <span class="tag ns" title="Not on Roger\'s results page, so it doesn\'t count">Unofficial</span>':''}${m.official==='provisional'?' <span class="tag guest" title="Waiting for Roger\'s results page">Provisional</span>':''}<small>${[m.par?'Par '+m.par:'',m.tees?m.tees+' tees':'',m.pins?m.pins+' pins':''].filter(Boolean).join(' · ')}</small></div>
   <div class="ss">${ord.map(p=>{const x=m.players[p];const w=(m.win[p]||0)>0;return `<span class="${w?'w':''}"><span class="dot" style="background:${C(p)};box-shadow:none"></span>${N[p]} ${x.status==='played'?(x.gross??'')+' <span style="color:var(--muted)">'+tp(x.toPar)+'</span>':(x.status==='dnf'?'<span class="tag dnf">DNF</span>':'<span class="tag ns">No show</span>')}${w?' <span class="tag win">W</span>':''}</span>`}).join('')}</div></summary>
   <div class="body"><div class="results">${resultRows(m)}</div>${scorecard(m)||((m.notes.length?`<p class="note">${esc(m.notes.join(' '))}</p>`:'')+`<p class="note">Source: ${m.src.map(s=>({golfplus:'GOLF+',roger:"Roger's site",tracker:'original tracker'}[s])).join(', ')}. Hole-by-hole scores aren't available for this round.</p>`)}</div></details>`}).join('')||'<p class="empty">No rounds match that search.</p>';
  $('moreBtn').hidden=list.length<=shown;
