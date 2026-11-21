@@ -1,0 +1,8622 @@
+[
+ {
+  "date": "2026-11-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Jameirah Earth",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-11-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bellerive Country Club New",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry won the playoff on the 18th hole with a birdie, while Roger got a bogey."
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch West",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv won on the first hole of our first 3-way playoff. He birdied hole 18, while Roger parred the hole and Jerry got a bogey."
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-11-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Sweetens Cove Illuminati",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-11-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai South",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Portrush Dunluce Links",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [],
+  "notes": [
+   "This was cancelled due to Roger's illness and various Murv & Jerry issues."
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Save Muny New",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv had serious tracking issues, or he would have been tied with Roger."
+  ]
+ },
+ {
+  "date": "2026-10-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines North",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 13,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-10-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Birkdale New",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play due to illness."
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [],
+  "notes": [
+   "Cancelled. Jerry & Murv could not play due to a co-cruise event."
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Canyons",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [],
+  "notes": [
+   "Cancelled. Jerry & Murv could not play due to a co-cruise event."
+  ]
+ },
+ {
+  "date": "2026-09-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch East",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [],
+  "notes": [
+   "Cancelled. Jerry & Murv could not play due to a co-cruise event."
+  ]
+ },
+ {
+  "date": "2026-09-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-09-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai North",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-09-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Metro",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry won the match after a 2-hole playoff. Roger & Jerry parred 1 but Jerry birdied hole 2, after Roger missed his birdie attempt."
+  ]
+ },
+ {
+  "date": "2026-09-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Peaks",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to Roger's battery issues, this match was played over two days, September 11th and 12th, thanks to Murv and Jerry providing schedule flexibility."
+  ]
+ },
+ {
+  "date": "2026-09-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger won the match after a 3-hole playoff. Roger & Jerry parred 18 and birdied 17. On 16, Roger birdied the hole, while Jerry parred it."
+  ]
+ },
+ {
+  "date": "2026-09-04",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Lofoten",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-31",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Atolls New",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Club",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry was unable to play due to a massive game update."
+  ]
+ },
+ {
+  "date": "2026-08-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Omni La Costa New",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Dornoch",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-08-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bethpage Black",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-31",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Riviera Country Club",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Tobacco Road",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv won a 4-hole playoff with Jerry. After tying on holes 18 (par), 17 (par) and 16 (birdie), Murv won hole 15 with a birdie, while Jerry parred the hole."
+  ]
+ },
+ {
+  "date": "2026-07-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst, Course #10",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines South Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv had headset issues and was unable to re-join and finish the round. At the time, he was about to sink a putt on 16 that would have put him at -4, 1 stroke behind Roger at the time."
+  ]
+ },
+ {
+  "date": "2026-07-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Caves Valley",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-07-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Alpine",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger unable to play due to Dice Tower East"
+  ]
+ },
+ {
+  "date": "2026-06-30",
+  "time": "10 AM ET/7 AM PT",
+  "course": "Pinehurst, Course #2",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC River Highlands",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Ruins",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Dynasty New!",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Jameirah Earth",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-06-08",
+  "time": "6 PM ET/3 PM PT",
+  "course": "Fields Ranch West",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The round was shortened as Roger was kicked off during hole 6 and couldn't recover, so we moved to the back 9."
+  ]
+ },
+ {
+  "date": "2026-06-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv won the playoff with Jerry. They both parred the 18th hole but Murv parred the 17th hole, while Jerry bogeyed it."
+  ]
+ },
+ {
+  "date": "2026-06-01",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Sweetens Cove",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai South",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -12,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "No Match - INDY 500",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2026-05-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "No Match - INDY 500",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2026-05-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play and was unable to reschedule."
+  ]
+ },
+ {
+  "date": "2026-05-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Portrush Dunluce",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-04",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines North New!",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -11,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-05-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-27",
+  "time": "10 AM ET/7 AM PT",
+  "course": "Canyons",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Peaks",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Club",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch East",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-04-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry won the playoff on the 3rd hole, where he scored a par while Roger bogeyed the hole."
+  ]
+ },
+ {
+  "date": "2026-03-30",
+  "time": "10 AM ET/7 AM PT",
+  "course": "Metro New!",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai North",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -16,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -11,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Lofoten",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": null,
+  "pins": null,
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-01",
+  "time": "7 PM ET/4 PM PT",
+  "course": "Royal Dornoch New!",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-03-01",
+  "time": "11:45 AM ET/8:45 AM PT",
+  "course": "Bethpage Black",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-02-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC River Highlands",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jeff was unable to join group due to major winter storm (lost power), so completed the course as solo. To date, no playoff has occurred."
+  ]
+ },
+ {
+  "date": "2026-02-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Riviera Country Club",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-02-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Tobacco Road New!",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-02-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-02-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-02-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv Berry won the match playoff on the 18th hole with a birdie, as Roger parred the hole."
+  ]
+ },
+ {
+  "date": "2026-02-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst, Course #10 New!",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines South Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry Finney won the playoff between Jerry and Roger on the 3rd playoff hole (#16), as he birdied the hole, while Roger bogeyed it."
+  ]
+ },
+ {
+  "date": "2026-01-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Caves Valley New!",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-19",
+  "time": "10 AM ET/7 AM PT",
+  "course": "Alpine",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv Berry hit a hole-in-one on the 202-yard hole 14!"
+  ]
+ },
+ {
+  "date": "2026-01-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Sweetens Cove New!",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst, Course #2",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Plantation Course at Kapalua",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2026-01-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Ruins",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Club",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Jumeirah Earth",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Peaks",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai South Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-12-01",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Portrush Dunluce",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-21",
+  "time": "",
+  "course": "No Match",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2025-11-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": null,
+  "pins": null,
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Links",
+  "tees": null,
+  "pins": null,
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch East",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-11-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv won the playoff on the 18th hole when he birdied the hole, while Roger parred it."
+  ]
+ },
+ {
+  "date": "2025-11-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai North Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-31",
+  "time": "4:30 PM ET/1:30 PM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -12,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry had a series of issues with the game or he would have been it at the end."
+  ]
+ },
+ {
+  "date": "2025-10-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Lofoten Links",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger won the playoff on the first hole (18) with a birdie, while Jerry parred the hole."
+  ]
+ },
+ {
+  "date": "2025-10-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC River Highlands",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-10-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Riviera Country Club",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play on account of vacation."
+  ]
+ },
+ {
+  "date": "2025-09-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play on account of vacation."
+  ]
+ },
+ {
+  "date": "2025-09-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play on account of vacation."
+  ]
+ },
+ {
+  "date": "2025-09-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bethpage Black *NEW Course*",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Alpine",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst #2",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-09-01",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Jumeirah Earth",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-08-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger won playoff on first hole, as he birdied hole 18 while Jerry parred it."
+  ]
+ },
+ {
+  "date": "2025-08-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch West *NEW Course*",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-08-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Club",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-08-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Peaks",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-08-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai South Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-08-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-08-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-08-04",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry had battery issues and was unable to finish the course."
+  ]
+ },
+ {
+  "date": "2025-08-01",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-07-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-07-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -12,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger did not play while attending his family reunion."
+  ]
+ },
+ {
+  "date": "2025-07-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Plantation Course at Kapalua",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-07-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Portrush Dunluce",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -13,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour plays this course this week."
+  ]
+ },
+ {
+  "date": "2025-07-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines Golf Club",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger had technical difficulties and was unable to complete the match."
+  ]
+ },
+ {
+  "date": "2025-07-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Fields Ranch East *NEW Course*",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-07-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -12,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -11,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-07-04",
+  "time": "",
+  "course": "MATCH CANCELLED",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": [
+   "Roger was unable to play due to Dice Tower East, and Jerry & Murv were unable to set up a match."
+  ]
+ },
+ {
+  "date": "2025-06-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-06-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Lots of technical issues led us to restart after the front 9. Below are how the scores happened: Roger: Front 9 -5 Back 9 -2 (PLUS 2 stroke penalty for hitting OB from previous round), Net Score: -5 Murv: Front 9 +1 Back 9 -4, Net Score: -3 Jerry: Front 9 -3 Back 9 +1, Net Score: -2"
+  ]
+ },
+ {
+  "date": "2025-06-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-06-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC River Highlands *NEW Course*",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour plays this course this week."
+  ]
+ },
+ {
+  "date": "2025-06-16",
+  "time": "2 PM ET/11 AM PT",
+  "course": "Lofoten Links",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-06-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St. Andrews",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-06-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Riviera Country Club",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv Berry was on vacation this week. Roger & Jerry tied at regulation. On hole 18 during the playoff, Roger parred the hole while Jerry bogeyed it."
+  ]
+ },
+ {
+  "date": "2025-06-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -12,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv Berry was on vacation this week."
+  ]
+ },
+ {
+  "date": "2025-06-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berrt",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-05-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village Golf Club",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour plays this course this week."
+  ]
+ },
+ {
+  "date": "2025-05-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-05-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow Club",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-05-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach Golf Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger finished last hole of regulation alone due to connection issues and provided video of birdie on 18. Scorecard shows -4 due to erringly showing birdie on 17 when he only got a par. Murv and Jerry played off for 2nd place as, when they finished, they were currently tied for 1st place at -2 when Roger was disconnected. Jerry eagled 18, while Murv birdied it, giving Jerry 2nd place. Doubleheader! Saturday, May 10, 10 AM ET/7 AM PT Torrey Pines Back Tees, Medium Pins \u2014\u2014 Alpine Middle Tees, Medium Pins DNF: Jerry Finney (ran out of battery, never finished)"
+  ]
+ },
+ {
+  "date": "2025-05-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Jumeirah Earth *NEW Course*",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Peaks *NEW Course*",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai South Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town Golf Links",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour plays this course this week."
+  ]
+ },
+ {
+  "date": "2025-04-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Royal Portrush Golf Club *NEW COURSE*",
+  "tees": null,
+  "pins": null,
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-04-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-31",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Canyons",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Plantation Course at Kapalua",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines Golf Club",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Te Arai North Course *New Course*",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv & Jeff tied at regulation, with Jerry just 1 stroke back. During the playoff, Murv and Jeff both birdied 18 and parred 17. On 16, Murv birdied, while Jeff parred."
+  ]
+ },
+ {
+  "date": "2025-03-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-03-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Cub",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-03-09",
+  "time": "2 PM ET/11 AM PT",
+  "course": "Bay Hill Club",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry & Roger tied for 1st place despite the listed scores due to the system adding a stroke to Jerry's score. Since a playoff never happened, they are both awarded a 0.5 win."
+  ]
+ },
+ {
+  "date": "2025-03-02",
+  "time": "12 PM ET/9 AM PT",
+  "course": "Muirfield Village Golf Club",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 10,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-02-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Lofoten Links",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry & Jeff Finney unable to attend."
+  ]
+ },
+ {
+  "date": "2025-02-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow Club",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger unable to play due to destroying his controller. Jerry dropped due to battery issues & was unable to finish."
+  ]
+ },
+ {
+  "date": "2025-02-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jeff's scorecard reads +1 but the game added a stroke to his score after he was kicked offline."
+  ]
+ },
+ {
+  "date": "2025-02-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-02-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Riviera Country Club",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-02-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger's score shows -6 due to getting kicked offline and returning to the game adding a stroke to his score on hole 12."
+  ]
+ },
+ {
+  "date": "2025-02-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-02-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jeff Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour played this course last week."
+  ]
+ },
+ {
+  "date": "2025-01-31",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach Golf Links",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2025-01-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Torrey Pines Golf Course *New Course*",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 4,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour played this course last week."
+  ]
+ },
+ {
+  "date": "2025-01-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town Golf Links",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-01-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-01-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst #2",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jeff Finney",
+    "toPar": 18,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "This marks the first match in which Jeff Finney has participated. Murv was unable to join us. Roger's battery died and had to finish Sunday, January 19th."
+  ]
+ },
+ {
+  "date": "2025-01-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-01-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-01-05",
+  "time": "12 AM ET/9 AM PT",
+  "course": "*New* Canyons",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2025-01-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Plantation Course at Kapalua",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week. DNF: Jerry Finney",
+   "Jerry's battery died, so he was unable to continue, nor was he able to finish afterwards. He stopped on hole 15 at -2. \u2014\u2014\u2014\u2014\u2014 Roger Killion is the 2024 Golf+ Champion! 2024 FINAL Tour Results (after 88 matches)*: Roger Killion - 47 wins Jerry Finney - 36 wins* Murv Berry - 6 wins* *Jerry & Murv tied one match where there was no playoff to determine a winner due to playing the course in two 9-hole sessions, so both were given a 1st place finish.",
+   "Neither Roger, Murv nor Jerry have played in all matches. Murv has missed 6 matches. Roger has missed 3 matches. Jerry has missed 3 matches."
+  ]
+ },
+ {
+  "date": "2024-12-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines Golf Club",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Alpine Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "*New* Te Arai South Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst #2",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Golf Club",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village Golf Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-12-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill Club",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to technical difficulties, we had to stop after the front 9 and play a separate back 9. On the front 9, we were; Roger (E), Jerry (+2), Murv (+2). On the back 9, we were; Roger (-4), Jerry (+5), Murv (+6)."
+  ]
+ },
+ {
+  "date": "2024-12-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Ocean Course at Kiawah",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv's score shows +7 but the game made him shoot a shot twice on hole 17, so his score is one less than shown."
+  ]
+ },
+ {
+  "date": "2024-11-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Riviera Country Club",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv originally ended at -2 after 15 holes to allow Jerry & Roger to complete the game. He finished holes 16-18 on 11/21/24 going par, birdie, par for a final -3 score"
+  ]
+ },
+ {
+  "date": "2024-11-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach Golf Links",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-04",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Alpine",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-11-01",
+  "time": "11 AMET/8 AM PT",
+  "course": "Harbour Town Golf Links",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 13,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-25",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Lofoten Links *NEW Course*",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry was unable to finish and stopped after hole 8 at +3."
+  ]
+ },
+ {
+  "date": "2024-10-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst #2",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-18",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-11",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Plantation Course at Kapalua",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-10-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cancelled",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2024-10-04",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cancelled",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2024-09-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-09-27",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-09-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill Club",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -9,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry Finney was unable to join us."
+  ]
+ },
+ {
+  "date": "2024-09-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spyglass Hill",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry Finney was unable to join us."
+  ]
+ },
+ {
+  "date": "2024-09-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town Golf Links",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-09-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Village Golf Club",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry Finney was unable to join us."
+  ]
+ },
+ {
+  "date": "2024-09-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Riviera Country Club",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger won on the second hole of a playoff. Jerry and Roger tied on 18 but Roger parred 17, while Jerry double-bogeyed the hole."
+  ]
+ },
+ {
+  "date": "2024-09-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-08-30",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2024-08-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-08-23",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Pines Golf Club *New Course*",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2024-08-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-08-16",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The PGA Tour is playing this course this week."
+  ]
+ },
+ {
+  "date": "2024-08-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Riviera Country Club Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to a tie after 18 holes, Roger & Jerry had a playoff. Both parred hole 18 but Roger birdied 17, while Jerry scored a par."
+  ]
+ },
+ {
+  "date": "2024-08-09",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-08-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-08-02",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to a work conflict, Murv was unable to complete the match. As of the 16th hole, he was +11. He was unable to continue the match later."
+  ]
+ },
+ {
+  "date": "2024-07-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Wolf Creek Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger was unable to play due to lack of adequate space in a hotel room in Plainfield, IN."
+  ]
+ },
+ {
+  "date": "2024-07-26",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-07-22",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Sawgrass Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-07-19",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Spy Glass Hill Course *NEW*",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-07-15",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": true,
+    "name": "Roger Killion",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "The scorecard shows Roger with a +6 score but the game incorrectly charged him with an extra stroke when the game glitched on him."
+  ]
+ },
+ {
+  "date": "2024-07-12",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Castle Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-07-08",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Yale Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv had battery issues and was unable to complete play. He was +4 after the 11th hole when he had to stop."
+  ]
+ },
+ {
+  "date": "2024-07-05",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Harbour Town Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 11,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv had controller issues and was unable to play."
+  ]
+ },
+ {
+  "date": "2024-07-01",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Kapalua Plantation Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "With today's win, Jerry becomes the first player to 25 wins!"
+  ]
+ },
+ {
+  "date": "2024-06-28",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Alpine Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-24",
+  "time": "11 AM ET/8 AM PT",
+  "course": "East Lake Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger & Jerry were tied at -2 after hole 16. They both parred 17. On 18, Roger birdied while Jerry parred the hole."
+  ]
+ },
+ {
+  "date": "2024-06-21",
+  "time": "11 AM ET/8 AM PT",
+  "course": "The Old Course at St Andrews",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Southwind Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-14",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst Course #2",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Kiawah Ocean Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-07",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Muirfield Club Course *New Course!*",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 12,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-06-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Bay Hill Club Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry, Murv and Roger were all tied at -1 at the end of 18 holes, making it the closest match we've ever played. On the first playoff hole (18), Roger scored a bogey, while Jerry and Murv scored pars, so Roger was eliminated. On the second playoff hole (17), Jerry scored a birdie, while Murv scored a par, so Jerry won. Murv scored an eagle on hole 12."
+  ]
+ },
+ {
+  "date": "2024-05-31",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Cliffs Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry lost his internet connection and was unable to complete the match. However, the game allowed him to finish the match the next time he booted the game, so I have included that score with this result. Murv won the match by the final putt on hole 18! Roger got an eagle on hole 14."
+  ]
+ },
+ {
+  "date": "2024-05-27",
+  "time": "",
+  "course": "NO MATCH - Indy 500 Weekend",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2024-05-24",
+  "time": "",
+  "course": "NO MATCH - Indy 500 Weekend",
+  "tees": null,
+  "pins": null,
+  "results": [],
+  "notes": []
+ },
+ {
+  "date": "2024-05-20",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Riviera Country Club Course",
+  "tees": null,
+  "pins": null,
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 12,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-05-17",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Valhalla Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-05-13",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pebble Beach Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "This round was very glitchy and Murv had serious issues that made it impossible for him to play. He was at +3 after hole 12. At that point, Jerry was at -2 and Roger was at +1."
+  ]
+ },
+ {
+  "date": "2024-05-10",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Quail Hollow Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": -6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv broke the current record for lowest score!"
+  ]
+ },
+ {
+  "date": "2024-05-07",
+  "time": "2:30 PM ET/11:30 AM PT",
+  "course": "Kapalua Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-05-06",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Pinehurst Course #2",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger & Jerry were tied after 18, so there was a 1-hole playoff. Roger parred the hole, while Jerry had a bogey."
+  ]
+ },
+ {
+  "date": "2024-05-03",
+  "time": "11 AM ET/8 AM PT",
+  "course": "Olympia Fields Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 5,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry was 6 under par after the first 10 holes!"
+  ]
+ },
+ {
+  "date": "2024-04-29",
+  "time": "11 AM ET/8 AM PT",
+  "course": "TPC Scottsdale Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 4,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger unable to play due to a knee injury."
+  ]
+ },
+ {
+  "date": "2024-04-27",
+  "time": "",
+  "course": "Castle Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-04-22",
+  "time": "",
+  "course": "Yale Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-04-20",
+  "time": "",
+  "course": "TPC Sawgrass",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-04-15",
+  "time": "",
+  "course": "Harbour Town Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry had an eagle on hole #2!"
+  ]
+ },
+ {
+  "date": "2024-04-12",
+  "time": "",
+  "course": "Kapalua Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-04-08",
+  "time": "",
+  "course": "Valhalla Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-04-05",
+  "time": "",
+  "course": "Alpine Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv had an eagle on hole 16!"
+  ]
+ },
+ {
+  "date": "2024-03-31",
+  "time": "",
+  "course": "The Old Course at St Andrews",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 6,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Roger experienced battery issues and was unable to complete the round. When he lost power on the 16th hole, he was 2 over par. If Roger has battery issues next week, he will be on probation. He is currently on secret probation."
+  ]
+ },
+ {
+  "date": "2024-03-24",
+  "time": "",
+  "course": "TPC Southwind Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-03-17",
+  "time": "",
+  "course": "Kiawah Ocean Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 0,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 5,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 16,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Unfortunately, Murv hit a tree three times on hole #2 and was accosted by an Arbor Day representative."
+  ]
+ },
+ {
+  "date": "2024-03-10",
+  "time": "",
+  "course": "Bay Hill Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 13,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry won the match after a 1-hole playoff. Jerry and Roger ended 18 holes tight at +7, so there was a playoff on hole 18. Jerry won the hole, as he birdied the hole, while Roger parred the hole."
+  ]
+ },
+ {
+  "date": "2024-03-02",
+  "time": "",
+  "course": "East Lake Course",
+  "tees": "Middle",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to play due to a NASCAR event in Vegas. Roger & Jerry were tied at +2 going into the 15th hole. Jerry bogied hole 17, while Roger parred the remaining 4 holes."
+  ]
+ },
+ {
+  "date": "2024-02-25",
+  "time": "",
+  "course": "Cliffs Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-02-19",
+  "time": "",
+  "course": "Pebble Beach Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": -3,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 16,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry was four under par after the front 9! Roger hit a record seven balls out of bounds, including two out of bounds on the first hole!"
+  ]
+ },
+ {
+  "date": "2024-02-18",
+  "time": "",
+  "course": "Riviera Country Club Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 8,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv was unable to join us, so Jerry & Roger played Riviera (since the PGA tour played here this week), and we rescheduled our match to the next day, noted above."
+  ]
+ },
+ {
+  "date": "2024-02-11",
+  "time": "",
+  "course": "Wolf Creek Course",
+  "tees": "Middle",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": -1,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Jerry experienced controller problems during the match."
+  ]
+ },
+ {
+  "date": "2024-02-04",
+  "time": "",
+  "course": "Riviera Country Club Course",
+  "tees": "Middle",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 4,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 8,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 9,
+    "extra": ""
+   }
+  ],
+  "notes": []
+ },
+ {
+  "date": "2024-01-28",
+  "time": "",
+  "course": "Olympia Country Club Course",
+  "tees": "Back",
+  "pins": "Easy",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 6,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 10,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Murv slept in and missed the match and is currently on probation."
+  ]
+ },
+ {
+  "date": "2024-01-21",
+  "time": "",
+  "course": "TPC Scottsdale Course",
+  "tees": "Back",
+  "pins": "Medium",
+  "results": [
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Jerry Finney",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 1,
+    "tie": true,
+    "name": "Murv Berry",
+    "toPar": 7,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 11,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to user error, we played the back 9 first, so the game didn't catch the tie and require a playoff."
+  ]
+ },
+ {
+  "date": "2024-01-14",
+  "time": "",
+  "course": "Castle Link Course",
+  "tees": "Back",
+  "pins": "Hard",
+  "results": [
+   {
+    "pos": 1,
+    "tie": false,
+    "name": "Jerry Finney",
+    "toPar": 2,
+    "extra": ""
+   },
+   {
+    "pos": 2,
+    "tie": false,
+    "name": "Roger Killion",
+    "toPar": 1,
+    "extra": ""
+   },
+   {
+    "pos": 3,
+    "tie": false,
+    "name": "Murv Berry",
+    "toPar": 3,
+    "extra": ""
+   }
+  ],
+  "notes": [
+   "Due to a game error, we only tracked the back 9 but Jerry won overall. The scores listed are for the back 9 only. \u00a9 2024 Roger Killion Email Me"
+  ]
+ }
+]

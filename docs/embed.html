@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Golf+ latest</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--band:#0d3b26;--band2:#0a2e1d;--ink:#f3f6ef;--muted:#a9c2b2;--flag:#f2c230;--roger:#3987e5;--jerry:#eb6834;--murv:#1baf7a;--line:rgba(255,255,255,.12)}
+*{box-sizing:border-box;min-width:0}
+html,body{margin:0;background:transparent}
+.w{font:14px/1.45 Inter,system-ui,sans-serif;color:var(--ink);background:linear-gradient(180deg,var(--band),var(--band2));border-radius:16px;padding:16px;max-width:760px}
+.hd{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px}
+.hd h2{margin:0;font:700 24px/1 "Barlow Condensed",sans-serif;display:flex;gap:8px;align-items:center}
+.hd a{color:var(--flag);font-weight:600;text-decoration:none;font-size:13px;white-space:nowrap}
+.cols{display:grid;grid-template-columns:minmax(0,1fr);gap:12px}
+@media(min-width:560px){.cols{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}}
+.box{background:rgba(0,0,0,.2);border-radius:12px;padding:12px}
+.lbl{font-size:12px;color:var(--muted);font-weight:600;margin:0 0 6px}
+.cn{font:700 21px/1.1 "Barlow Condensed",sans-serif;margin:0 0 2px}
+.sub{font-size:12.5px;color:var(--muted);margin:0 0 8px}
+.r{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:10px;align-items:center;padding:6px 0;border-top:1px solid var(--line)}
+.r:first-of-type{border-top:0}
+.nm{display:flex;align-items:center;gap:7px;font-weight:600}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+.g{font:700 22px/1 "Barlow Condensed",sans-serif;font-variant-numeric:tabular-nums}
+.tp{color:var(--muted);font-size:12.5px;min-width:30px;text-align:right}
+.win{background:var(--flag);color:#1c1600;font-size:10.5px;font-weight:700;border-radius:5px;padding:1px 6px}
+.ns{color:var(--muted);font-size:12px}
+.st{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin-bottom:10px}
+.st div{text-align:center;background:rgba(255,255,255,.06);border-radius:10px;padding:8px 4px}
+.st b{display:block;font:700 28px/1 "Barlow Condensed",sans-serif}
+.st span{font-size:12px;color:var(--muted);display:inline-flex;gap:5px;align-items:center}
+.nx{font-size:13px;color:var(--ink)}
+.nx b{font-weight:600}
+.pr{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px;font-size:13px;color:var(--muted)}
+.pr span{display:inline-flex;align-items:center;gap:5px}.pr strong{color:var(--ink)}
+.ft{margin-top:10px;font-size:11.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="w" id="w"><div class="hd"><h2>⛳ Golf+ latest</h2></div><p class="sub">Loading…</p></div>
+<script>
+{
+const P=['roger','jerry','murv'],N={roger:'Roger',jerry:'Jerry',murv:'Murv'};
+const tp=n=>n==null?'':(n===0?'E':(n>0?'+'+n:String(n)));
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fd=(d,o)=>new Date(d+'T12:00:00').toLocaleDateString('en-US',o||{weekday:'short',month:'short',day:'numeric'});
+const wn=v=>Number.isInteger(v)?String(v):v.toFixed(1);
+const full=new URL('./',location.href).href;
+fetch('data.json?v='+Date.now()).then(r=>r.json()).then(d=>{
+ const m=d.matches[d.matches.length-1],y=d.years[d.years.length-1],s=d.seasons[y];
+ const ord=P.slice().sort((a,b)=>{const A=m.players[a],B=m.players[b];if(A.status!=='played')return 1;if(B.status!=='played')return -1;return (A.toPar-B.toPar)||((m.win[b]||0)-(m.win[a]||0))});
+ const rows=ord.map(p=>{const x=m.players[p];return `<div class="r"><div class="nm"><span class="dot" style="background:var(--${p})"></span>${N[p]}${(m.win[p]||0)>0?' <span class="win">'+(m.playoff?'WON PLAYOFF':'WIN')+'</span>':''}</div>${x.status==='played'?`<div class="g">${x.gross??''}</div><div class="tp">${tp(x.toPar)}</div>`:`<div></div><div class="ns">${x.status==='dnf'?'DNF':'No show'}</div>`}</div>`}).join('')
+  +(m.guests||[]).map(g=>`<div class="r"><div class="nm" style="color:var(--muted)">${esc(g.name)} (guest)</div><div class="g">${g.gross??''}</div><div class="tp">${tp(g.toPar)}</div></div>`).join('');
+ const n=d.next;
+ const nx=n?`<p class="lbl">Next match</p><div class="nx"><b>${esc(n.course)}</b>${n.isNew?' (new)':''}<br>${fd(n.date)} · 8:00am PT · ${[n.tees&&n.tees+' tees',n.pins&&n.pins+' pins'].filter(Boolean).join(', ')}</div>${n.predict?`<div class="pr">Predicted: ${P.map(p=>n.predict[p]?`<span><span class="dot" style="background:var(--${p})"></span>${N[p]} <strong>${n.predict[p].gross??tp(n.predict[p].toPar)}</strong></span>`:'').join('')}</div>`:''}`:'<p class="lbl">Next match</p><div class="nx">Nothing scheduled yet.</div>';
+ document.getElementById('w').innerHTML=`<div class="hd"><h2>⛳ Golf+ latest</h2><a href="${full}" target="_blank" rel="noopener">Full tracker ↗</a></div>
+ <div class="cols"><div class="box"><p class="lbl">${fd(m.date,{weekday:'long',month:'long',day:'numeric'})}</p><p class="cn">${esc(m.course)}</p><p class="sub">${[m.par&&'Par '+m.par,m.tees&&m.tees+' tees',m.pins&&m.pins+' pins',m.pro&&'Pro'].filter(Boolean).join(' · ')}</p>${rows}</div>
+ <div class="box"><p class="lbl">${y} wins (${s.matches} matches)</p><div class="st">${s.order.map(p=>`<div><b>${wn(s.players[p].wins)}</b><span><span class="dot" style="background:var(--${p})"></span>${N[p]}</span></div>`).join('')}</div>${nx}</div></div>
+ <div class="ft">Scores from GOLF+, updated ${new Date(d.generatedAt).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZone:'America/Los_Angeles'})} PT.</div>`;
+ if(parent!==window)try{parent.postMessage({golfplusHeight:document.documentElement.scrollHeight},'*')}catch(e){}
+}).catch(()=>{document.getElementById('w').innerHTML='<p class="sub">Golf+ results are unavailable right now.</p>'});
+}
+</script>
+</body>
+</html>

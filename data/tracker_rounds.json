@@ -1,0 +1,1179 @@
+[
+ {
+  "course": "Jumeirah Earth",
+  "date": "Friday, Nov 20, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 68 (-4)",
+   "Murv 73 (+1)",
+   "Jerry 74 (+2)"
+  ]
+ },
+ {
+  "course": "Te Arai South",
+  "date": "Monday, Nov 2, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 62 (-10)",
+   "Roger 66 (-6)",
+   "Murv 69 (-3)"
+  ]
+ },
+ {
+  "course": "Wolf Creek",
+  "date": "Friday, Oct 30, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 70 (-2)",
+   "Murv 71 (-1)",
+   "Jerry 77 (+5)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Monday, Oct 26, 2026 \u00b7 Par 72 \u00b7 Pro",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins \u00b7 Pro difficulty \u00b7 Pro round, scores sit out the averages",
+  "players": [
+   "Jerry 90 (+18)",
+   "Murv 103 (+31)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Olympia Fields",
+  "date": "Friday, Oct 23, 2026 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 64 (-6)",
+   "Murv 72 (+2)",
+   "Jerry 73 (+3)"
+  ]
+ },
+ {
+  "course": "Save Muny",
+  "date": "Monday, Oct 19, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 67 (-4)",
+   "Roger 70 (-1)",
+   "Murv 74 (+3)"
+  ]
+ },
+ {
+  "course": "Quail Hollow",
+  "date": "Friday, Oct 16, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Roger 71 (E)",
+   "Jerry 75 (+4)",
+   "Murv 81 (+10)"
+  ]
+ },
+ {
+  "course": "Torrey Pines North",
+  "date": "Monday, Oct 12, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Roger 62 (-10)",
+   "Jerry 64 (-8)",
+   "Murv 67 (-5)"
+  ]
+ },
+ {
+  "course": "Yale",
+  "date": "Friday, Oct 9, 2026 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 74 (+4)",
+   "Murv 78 (+8)",
+   "Jerry 83 (+13)"
+  ]
+ },
+ {
+  "course": "Royal Birkdale",
+  "date": "Monday, Oct 5, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 67 (-3)",
+   "Roger 73 (+3)",
+   "Murv No show"
+  ]
+ },
+ {
+  "course": "Metro",
+  "date": "Monday, Sep 14, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 66 (-6)",
+   "Murv 75 (+3)",
+   "Roger no completed score"
+  ]
+ },
+ {
+  "course": "Cliffs",
+  "date": "Monday, Sep 7, 2026 \u00b7 Par 71",
+  "win": "Won by Roger, playoff",
+  "cond": "Back tees \u00b7 Medium pins \u00b7 Roger won in a playoff",
+  "players": [
+   "Roger 65 (-6)",
+   "Jerry 65 (-6)",
+   "Murv 77 (+6)"
+  ]
+ },
+ {
+  "course": "Lofoten Links",
+  "date": "Friday, Sep 4, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 71 (E)",
+   "Jerry 72 (+1)",
+   "Murv 73 (+2)"
+  ]
+ },
+ {
+  "course": "Atolls",
+  "date": "Monday, Aug 31, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 66 (-5)",
+   "Roger 69 (-2)",
+   "Murv 70 (-1)"
+  ]
+ },
+ {
+  "course": "East Lake 2023",
+  "date": "Friday, Aug 28, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 69 (-1)",
+   "Roger 74 (+4)",
+   "Murv 75 (+5)"
+  ]
+ },
+ {
+  "course": "Old Course at St Andrews",
+  "date": "Monday, Aug 24, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Roger 62 (-10)",
+   "Jerry 64 (-8)",
+   "Murv 69 (-3)"
+  ]
+ },
+ {
+  "course": "TPC Sawgrass",
+  "date": "Friday, Aug 21, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 68 (-4)",
+   "Roger 75 (+3)",
+   "Murv 77 (+5)"
+  ]
+ },
+ {
+  "course": "Valhalla",
+  "date": "Monday, Aug 17, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 68 (-4)",
+   "Murv 70 (-2)",
+   "Jerry No show"
+  ]
+ },
+ {
+  "course": "TPC Southwind",
+  "date": "Friday, Aug 14, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 62 (-9)",
+   "Jerry 74 (+3)",
+   "Murv 78 (+7)"
+  ]
+ },
+ {
+  "course": "Omni La Costa North",
+  "date": "Monday, Aug 10, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 68 (-4)",
+   "Roger 69 (-3)",
+   "Murv 78 (+6)"
+  ]
+ },
+ {
+  "course": "Royal Dornoch",
+  "date": "Friday, Aug 7, 2026 \u00b7 Par 70",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Murv 65 (-5)",
+   "Roger 66 (-4)",
+   "Jerry 68 (-2)"
+  ]
+ },
+ {
+  "course": "Bethpage Black",
+  "date": "Monday, Aug 3, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 65 (-5)",
+   "Roger 68 (-2)",
+   "Murv 73 (+3)"
+  ]
+ },
+ {
+  "course": "Riviera",
+  "date": "Friday, Jul 31, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 67 (-4)",
+   "Murv 69 (-2)",
+   "Roger 70 (-1)"
+  ]
+ },
+ {
+  "course": "Tobacco Road",
+  "date": "Monday, Jul 27, 2026 \u00b7 Par 71",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Easy pins \u00b7 Murv and Jerry tied on 65; Murv took the win",
+  "players": [
+   "Murv 65 (-6)",
+   "Jerry 65 (-6)",
+   "Roger 76 (+5)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Friday, Jul 24, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 69 (-3)",
+   "Murv 77 (+5)",
+   "Jerry No show"
+  ]
+ },
+ {
+  "course": "TPC Scottsdale",
+  "date": "Monday, Jul 20, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 67 (-4)",
+   "Jerry 72 (+1)",
+   "Murv 73 (+2)"
+  ]
+ },
+ {
+  "course": "Pinehurst No. 10",
+  "date": "Friday, Jul 17, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 64 (-6)",
+   "Roger 69 (-1)",
+   "Murv 72 (+2)"
+  ]
+ },
+ {
+  "course": "Caves Valley",
+  "date": "Friday, Jul 10, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 74 (+3)",
+   "Jerry 75 (+4)",
+   "Murv 79 (+8)"
+  ]
+ },
+ {
+  "course": "Spyglass Hill",
+  "date": "Monday, Jul 6, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 65 (-7)",
+   "Roger 69 (-3)",
+   "Murv 79 (+7)"
+  ]
+ },
+ {
+  "course": "Alpine",
+  "date": "Friday, Jul 3, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 67 (-4)",
+   "Murv 72 (+1)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Pinehurst No. 2",
+  "date": "Tuesday, Jun 30, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 68 (-4)",
+   "Murv 72 (E)",
+   "Jerry 73 (+1)"
+  ]
+ },
+ {
+  "course": "TPC River Highlands",
+  "date": "Wednesday, Jun 24, 2026 \u00b7 Par 70",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Murv 66 (-4)",
+   "Jerry 67 (-3)",
+   "Roger 68 (-2)"
+  ]
+ },
+ {
+  "course": "Ruins",
+  "date": "Monday, Jun 22, 2026 \u00b7 Par 73",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 63 (-10)",
+   "Roger 66 (-7)",
+   "Murv 70 (-3)"
+  ]
+ },
+ {
+  "course": "Dynasty",
+  "date": "Friday, Jun 19, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 68 (-4)",
+   "Jerry 73 (+1)",
+   "Murv 74 (+2)"
+  ]
+ },
+ {
+  "course": "Jumeirah Earth",
+  "date": "Monday, Jun 15, 2026 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Murv 66 (-6)",
+   "Jerry 70 (-2)",
+   "Roger 71 (-1)"
+  ]
+ },
+ {
+  "course": "Castle Links",
+  "date": "Friday, Jun 12, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 69 (-3)",
+   "Jerry 76 (+4)",
+   "Murv 80 (+8)"
+  ]
+ },
+ {
+  "course": "Muirfield Village",
+  "date": "Friday, Jun 5, 2026 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Medium pins \u00b7 Murv and Jerry tied on 72; Murv took the win",
+  "players": [
+   "Murv 72 (E)",
+   "Jerry 72 (E)",
+   "Roger 75 (+3)"
+  ]
+ },
+ {
+  "course": "Sweetens Cove",
+  "date": "Monday, Jun 1, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 66 (-6)",
+   "Roger 69 (-3)",
+   "Murv 69 (-3)"
+  ]
+ },
+ {
+  "course": "Te Arai South",
+  "date": "Friday, May 29, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Roger 60 (-12)",
+   "Jerry 65 (-7)",
+   "Murv 70 (-2)"
+  ]
+ },
+ {
+  "course": "Wolf Creek",
+  "date": "Monday, May 18, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 64 (-8)",
+   "Jerry 76 (+4)",
+   "Murv No show"
+  ]
+ },
+ {
+  "course": "Royal Portrush Dunluce Links",
+  "date": "Friday, May 15, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 65 (-7)",
+   "Jerry 69 (-3)",
+   "Murv 69 (-3)"
+  ]
+ },
+ {
+  "course": "Olympia Fields",
+  "date": "Monday, May 11, 2026 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Roger 66 (-4)",
+   "Jerry 72 (+2)",
+   "Murv 77 (+7)"
+  ]
+ },
+ {
+  "course": "Quail Hollow",
+  "date": "Saturday, May 9, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 71 (E)",
+   "Roger 72 (+1)",
+   "Murv 76 (+5)"
+  ]
+ },
+ {
+  "course": "Torrey Pines North",
+  "date": "Monday, May 4, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 61 (-11)",
+   "Jerry 62 (-10)",
+   "Murv 66 (-6)"
+  ]
+ },
+ {
+  "course": "Yale",
+  "date": "Saturday, May 2, 2026 \u00b7 Par 70",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Murv 65 (-5)",
+   "Roger 67 (-3)",
+   "Jerry 67 (-3)"
+  ]
+ },
+ {
+  "course": "Torrey Pines North",
+  "date": "Friday, May 1, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 63 (-9)",
+   "Roger 68 (-4)",
+   "Murv No show"
+  ]
+ },
+ {
+  "course": "Canyons",
+  "date": "Sunday, Apr 26, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 73 (+1)",
+   "Murv 75 (+3)",
+   "Jerry 80 (+8)"
+  ]
+ },
+ {
+  "course": "Peaks",
+  "date": "Friday, Apr 24, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 62 (-10)",
+   "Jerry 63 (-9)",
+   "Murv 67 (-5)"
+  ]
+ },
+ {
+  "course": "East Lake 2023",
+  "date": "Monday, Apr 20, 2026 \u00b7 Par 70",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Murv 62 (-8)",
+   "Roger 63 (-7)",
+   "Jerry 64 (-6)"
+  ]
+ },
+ {
+  "course": "Harbour Town",
+  "date": "Friday, Apr 17, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 71 (E)",
+   "Roger 75 (+4)",
+   "Murv 75 (+4)"
+  ]
+ },
+ {
+  "course": "Castle Pines",
+  "date": "Wednesday, Apr 15, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 74 (+2)",
+   "Roger 78 (+6)",
+   "Murv 78 (+6)"
+  ]
+ },
+ {
+  "course": "Cliffs",
+  "date": "Monday, Apr 13, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 64 (-7)",
+   "Murv 66 (-5)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Fields Ranch East",
+  "date": "Friday, Apr 10, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 67 (-5)",
+   "Roger 68 (-4)",
+   "Murv 75 (+3)"
+  ]
+ },
+ {
+  "course": "TPC Southwind",
+  "date": "Monday, Apr 6, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 64 (-7)",
+   "Roger 67 (-4)",
+   "Murv 70 (-1)"
+  ]
+ },
+ {
+  "course": "Kiawah",
+  "date": "Friday, Apr 3, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins \u00b7 Jerry and Roger tied on 64; Jerry took the win",
+  "players": [
+   "Jerry 64 (-8)",
+   "Roger 64 (-8)",
+   "Murv 67 (-5)"
+  ]
+ },
+ {
+  "course": "Metro",
+  "date": "Monday, Mar 30, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 64 (-8)",
+   "Jerry 66 (-6)",
+   "Murv 72 (E)"
+  ]
+ },
+ {
+  "course": "Te Arai North",
+  "date": "Friday, Mar 27, 2026 \u00b7 Par 71",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Murv 64 (-7)",
+   "Jerry 66 (-5)",
+   "Roger 68 (-3)"
+  ]
+ },
+ {
+  "course": "Cliffs",
+  "date": "Monday, Mar 23, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 55 (-16)",
+   "Murv 60 (-11)",
+   "Roger 62 (-9)"
+  ]
+ },
+ {
+  "course": "Lofoten Links",
+  "date": "Friday, Mar 20, 2026 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 65 (-6)",
+   "Roger 66 (-5)",
+   "Murv 75 (+4)"
+  ]
+ },
+ {
+  "course": "Old Course at St Andrews",
+  "date": "Monday, Mar 16, 2026 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Murv 66 (-6)",
+   "Roger 70 (-2)",
+   "Jerry 72 (E)"
+  ]
+ },
+ {
+  "course": "TPC Sawgrass",
+  "date": "Friday, Mar 13, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 67 (-5)",
+   "Roger 74 (+2)",
+   "Murv 74 (+2)"
+  ]
+ },
+ {
+  "course": "Valhalla",
+  "date": "Monday, Mar 9, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 67 (-5)",
+   "Roger 69 (-3)",
+   "Murv 70 (-2)"
+  ]
+ },
+ {
+  "course": "Bay Hill",
+  "date": "Saturday, Mar 7, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 71 (-1)",
+   "Murv 77 (+5)",
+   "Roger 79 (+7)"
+  ]
+ },
+ {
+  "course": "Royal Dornoch",
+  "date": "Sunday, Mar 1, 2026 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Roger 66 (-4)",
+   "Jerry 68 (-2)",
+   "Murv 71 (+1)"
+  ]
+ },
+ {
+  "course": "Bethpage Black",
+  "date": "Sunday, Mar 1, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 69 (-1)",
+   "Roger 71 (+1)",
+   "Murv 78 (+8)"
+  ]
+ },
+ {
+  "course": "TPC River Highlands",
+  "date": "Monday, Feb 23, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 66 (-4)",
+   "Murv 67 (-3)",
+   "Roger 68 (-2)"
+  ]
+ },
+ {
+  "course": "Riviera",
+  "date": "Friday, Feb 20, 2026 \u00b7 Par 71",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Murv 71 (E)",
+   "Jerry 75 (+4)",
+   "Roger DNF"
+  ]
+ },
+ {
+  "course": "Tobacco Road",
+  "date": "Monday, Feb 16, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 62 (-9)",
+   "Jerry 63 (-8)",
+   "Murv 65 (-6)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Friday, Feb 13, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 67 (-5)",
+   "Jerry 70 (-2)",
+   "Murv 74 (+2)"
+  ]
+ },
+ {
+  "course": "Muirfield Village",
+  "date": "Monday, Feb 9, 2026 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Easy pins \u00b7 Guest JeffFinman shot the low score of the day; the win stays with the core three",
+  "players": [
+   "Murv 71 (-1)",
+   "Roger 74 (+2)",
+   "Jerry DNF"
+  ]
+ },
+ {
+  "course": "TPC Scottsdale",
+  "date": "Friday, Feb 6, 2026 \u00b7 Par 71",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Medium pins \u00b7 Murv and Roger tied on 67; Murv took the win",
+  "players": [
+   "Murv 67 (-4)",
+   "Roger 67 (-4)",
+   "Jerry DNF"
+  ]
+ },
+ {
+  "course": "Pinehurst No. 10",
+  "date": "Monday, Feb 2, 2026 \u00b7 Par 70",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 64 (-6)",
+   "Murv 69 (-1)",
+   "Roger 71 (+1)"
+  ]
+ },
+ {
+  "course": "Torrey Pines South",
+  "date": "Friday, Jan 30, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Easy pins \u00b7 Roger and Jerry tied on 70; Roger took the win",
+  "players": [
+   "Roger 70 (-2)",
+   "Jerry 70 (-2)",
+   "Murv 75 (+3)"
+  ]
+ },
+ {
+  "course": "Caves Valley",
+  "date": "Monday, Jan 26, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 70 (-1)",
+   "Murv 71 (E)",
+   "Jerry No show"
+  ]
+ },
+ {
+  "course": "Spyglass Hill",
+  "date": "Friday, Jan 23, 2026 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 69 (-3)",
+   "Murv 70 (-2)",
+   "Jerry No show"
+  ]
+ },
+ {
+  "course": "Alpine",
+  "date": "Monday, Jan 19, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 64 (-7)",
+   "Jerry 70 (-1)",
+   "Murv 70 (-1)"
+  ]
+ },
+ {
+  "course": "Sweetens Cove",
+  "date": "Friday, Jan 16, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 63 (-9)",
+   "Roger 66 (-6)",
+   "Murv 69 (-3)"
+  ]
+ },
+ {
+  "course": "Pinehurst No. 2",
+  "date": "Monday, Jan 12, 2026 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 72 (E)",
+   "Roger 73 (+1)",
+   "Murv 76 (+4)"
+  ]
+ },
+ {
+  "course": "Kapalua",
+  "date": "Friday, Jan 9, 2026 \u00b7 Par 73",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 67 (-6)",
+   "Murv 71 (-2)",
+   "Roger 74 (+1)"
+  ]
+ },
+ {
+  "course": "Quail Hollow",
+  "date": "Monday, Jan 5, 2026 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 67 (-4)",
+   "Jerry 69 (-2)",
+   "Murv 70 (-1)"
+  ]
+ },
+ {
+  "course": "Ruins",
+  "date": "Friday, Jan 2, 2026 \u00b7 Par 73",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 70 (-3)",
+   "Jerry 78 (+5)",
+   "Murv 82 (+9)"
+  ]
+ },
+ {
+  "course": "East Lake",
+  "date": "Monday, Dec 29, 2025 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 67 (-4)",
+   "Roger 71 (E)",
+   "Murv 75 (+4)"
+  ]
+ },
+ {
+  "course": "Jumeirah Earth",
+  "date": "Saturday, Dec 27, 2025 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Murv 63 (-9)",
+   "Jerry 65 (-7)",
+   "Roger 70 (-2)"
+  ]
+ },
+ {
+  "course": "Old Course at St Andrews",
+  "date": "Thursday, Dec 18, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 63 (-9)",
+   "Murv 72 (E)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Peaks",
+  "date": "Monday, Dec 15, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 66 (-6)",
+   "Murv 69 (-3)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Metro",
+  "date": "Saturday, Dec 13, 2025 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Murv 67 (-5)",
+   "Roger 69 (-3)",
+   "Jerry 69 (-3)"
+  ]
+ },
+ {
+  "course": "Harbour Town",
+  "date": "Monday, Dec 8, 2025 \u00b7 Par 71",
+  "win": "Won by Murv",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Murv 70 (-1)",
+   "Roger 73 (+2)",
+   "Jerry 74 (+3)"
+  ]
+ },
+ {
+  "course": "Wolf Creek",
+  "date": "Friday, Dec 5, 2025 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Murv 65 (-7)",
+   "Jerry 67 (-5)",
+   "Roger 71 (-1)"
+  ]
+ },
+ {
+  "course": "Royal Portrush Dunluce Links",
+  "date": "Monday, Dec 1, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 65 (-7)",
+   "Roger 74 (+2)",
+   "Murv 74 (+2)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Monday, Nov 24, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 69 (-3)",
+   "Murv 72 (E)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Valhalla",
+  "date": "Monday, Nov 17, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 67 (-5)",
+   "Murv 72 (E)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Castle Links",
+  "date": "Friday, Nov 14, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 69 (-3)",
+   "Murv 72 (E)",
+   "Roger No show"
+  ]
+ },
+ {
+  "course": "Fields Ranch East",
+  "date": "Monday, Nov 10, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 69 (-3)",
+   "Jerry 74 (+2)",
+   "Murv 78 (+6)"
+  ]
+ },
+ {
+  "course": "Kiawah",
+  "date": "Friday, Nov 7, 2025 \u00b7 Par 72",
+  "win": "Won by Murv",
+  "cond": "Middle tees \u00b7 Easy pins \u00b7 Murv and Roger tied on 67; Murv took the win",
+  "players": [
+   "Murv 67 (-5)",
+   "Roger 67 (-5)",
+   "Jerry 73 (+1)"
+  ]
+ },
+ {
+  "course": "Te Arai North",
+  "date": "Monday, Nov 3, 2025 \u00b7 Par 71",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Jerry 65 (-6)",
+   "Murv 66 (-5)",
+   "Roger 70 (-1)"
+  ]
+ },
+ {
+  "course": "TPC Sawgrass",
+  "date": "Friday, Oct 31, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 68 (-4)",
+   "Jerry 76 (+4)",
+   "Murv 79 (+7)"
+  ]
+ },
+ {
+  "course": "Bay Hill",
+  "date": "Monday, Oct 27, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Jerry 71 (-1)",
+   "Roger 73 (+1)",
+   "Murv 78 (+6)"
+  ]
+ },
+ {
+  "course": "Cliffs",
+  "date": "Friday, Oct 24, 2025 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Medium pins",
+  "players": [
+   "Roger 59 (-12)",
+   "Jerry 64 (-7)",
+   "Murv 65 (-6)"
+  ]
+ },
+ {
+  "course": "Muirfield Village",
+  "date": "Monday, Oct 20, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Roger 71 (-1)",
+   "Murv 72 (E)",
+   "Jerry 77 (+5)"
+  ]
+ },
+ {
+  "course": "Lofoten Links",
+  "date": "Friday, Oct 17, 2025 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins \u00b7 Roger and Jerry tied on 67; Roger took the win",
+  "players": [
+   "Roger 67 (-4)",
+   "Jerry 67 (-4)",
+   "Murv 72 (+1)"
+  ]
+ },
+ {
+  "course": "Old Course at St Andrews",
+  "date": "Friday, Oct 10, 2025 \u00b7 Par 72",
+  "win": "Won by Jerry",
+  "cond": "Middle tees \u00b7 Easy pins",
+  "players": [
+   "Jerry 63 (-9)",
+   "Roger 66 (-6)",
+   "Murv 67 (-5)"
+  ]
+ },
+ {
+  "course": "TPC River Highlands",
+  "date": "Monday, Oct 6, 2025 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 66 (-4)",
+   "Jerry 69 (-1)",
+   "Murv 75 (+5)"
+  ]
+ },
+ {
+  "course": "Bethpage Black",
+  "date": "Monday, Sep 22, 2025 \u00b7 Par 70",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Hard pins",
+  "players": [
+   "Roger 70 (E)",
+   "Murv 72 (+2)",
+   "Jerry 73 (+3)"
+  ]
+ },
+ {
+  "course": "Spyglass Hill",
+  "date": "Friday, Sep 19, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Medium pins",
+  "players": [
+   "Roger 65 (-7)",
+   "Jerry 72 (E)",
+   "Murv 77 (+5)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Monday, Sep 15, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 63 (-9)",
+   "Jerry 64 (-8)",
+   "Murv 75 (+3)"
+  ]
+ },
+ {
+  "course": "Pebble Beach",
+  "date": "Sunday, Sep 14, 2025 \u00b7 Par 72",
+  "win": "Won by Roger",
+  "cond": "Middle tees \u00b7 Hard pins",
+  "players": [
+   "Roger 70 (-2)",
+   "Murv 73 (+1)",
+   "Jerry No show"
+  ]
+ },
+ {
+  "course": "Alpine",
+  "date": "Friday, Sep 12, 2025 \u00b7 Par 71",
+  "win": "Won by Roger",
+  "cond": "Back tees \u00b7 Easy pins",
+  "players": [
+   "Roger 65 (-6)",
+   "Jerry 67 (-4)",
+   "Murv 73 (+2)"
+  ]
+ }
+]
