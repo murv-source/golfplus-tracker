@@ -520,6 +520,18 @@ def schedule(sched, par_by_key, pretty, today):
 
 def main():
     allm, cancelled, sched, par_by_key, pretty = build()
+    ov_path = os.path.join(ROOT, 'data', 'overrides.json')
+    ov = json.load(open(ov_path)) if os.path.exists(ov_path) else {}
+    for m in allm:
+        o = ov.get(m['date'])
+        if not o:
+            continue
+        if 'win' in o:
+            m['win'] = o['win']
+        if o.get('count'):
+            m['official'] = 'roger'
+        if o.get('note'):
+            m['notes'] = m['notes'] + [o['note']]
     matches = [m for m in allm if m['official'] != 'unofficial']
     now = datetime.now(timezone.utc)
     today = pt_date(now.isoformat().replace('+00:00', 'Z'))

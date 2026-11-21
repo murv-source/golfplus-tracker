@@ -16,3 +16,6 @@ Only Roger, Jerry and Murv are tracked. Guests show in a round only. A core play
 
 ## Pre-match text
 `python3 scripts/preview.py YYYY-MM-DD` prints the group-text preview for a match day.
+
+## Manual rulings
+`data/overrides.json` holds rulings that beat both sources (winner, count an unofficial round, extra note), keyed by match date.
