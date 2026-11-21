@@ -114,8 +114,61 @@ def parse_tracker(tr):
     return out
 
 
+UIDS = {'457748': 'roger', '784296': 'jerry', '815081': 'murv'}
+GROUP_INFO = {}   # (date, key) -> {'dnf': set(players), 'guests': [...], 'pos': {player: (pos, tiebreak)}}
+
+
+def load_groups(gp):
+    """Group rounds from GOLF+ round details: fill core rounds missing from a player's own list,
+    and record DNFs, guests and official finishing positions."""
+    p = os.path.join(ROOT, 'data', 'golfplus_groups.txt')
+    if not os.path.exists(p):
+        return []
+    groups = collections.defaultdict(list)
+    for line in open(p):
+        v = line.rstrip('\n').split('|')
+        if len(v) < 15 or v[0] != 'grp':
+            continue
+        _, uuid, completed, course, typ, diff, user, uid, pos, tb, holes, total, topar, tee, pin = v[:15]
+        groups[uuid].append(dict(completed=completed, course=course, type=typ, bucket=diff, user=user, uid=uid, pos=pos,
+                                 tb=tb, holes=holes, total=total, topar=topar, tee=tee, pin=pin))
+    have = collections.defaultdict(list)
+    for r in gp:
+        have[(r['player'], r['course'].replace(' ', ''))].append(datetime.fromisoformat(r['completed'].replace('Z', '+00:00')))
+    extra = []
+    for uuid, ps in groups.items():
+        core = [x for x in ps if x['uid'] in UIDS]
+        if not core:
+            continue
+        c0 = ps[0]
+        when = datetime.fromisoformat(c0['completed'].replace('Z', '+00:00'))
+        d = pt_date(c0['completed']); k = norm(c0['course'].replace(' ', ''))
+        info = GROUP_INFO.setdefault((d, k), {'dnf': set(), 'guests': [], 'pos': {}, 'n_core': 0})
+        info['n_core'] = max(info['n_core'], len(core))
+        for x in ps:
+            pl = UIDS.get(x['uid'])
+            if pl:
+                info['pos'][pl] = (x['pos'], x['tb'])
+                if not x['holes']:
+                    info['dnf'].add(pl)
+                    continue
+                if any(abs((t - when).total_seconds()) < 5400 for t in have[(pl, x['course'].replace(' ', ''))]):
+                    continue
+                total = int(x['total']); tp = int(x['topar'])
+                extra.append({'player': pl, 'bucket': x['bucket'], 'id': 'g-' + uuid[:8] + '-' + pl, 'course': x['course'], 'tee': x['tee'],
+                              'pin': x['pin'], 'wind': '', 'green': '', 'score': str(total), 'par': str(total - tp), 'holes': x['holes'],
+                              'completed': x['completed'], 'started': (when - timedelta(minutes=80)).isoformat().replace('+00:00', 'Z'),
+                              'mode': 'Multiplayer', 'modeDetails': 'Round', 'type': x['type'], 'difficulty': x['bucket'], 'yds': '0',
+                              'diff': '', 'inhcp': '0', 'gpid': ''})
+                have[(pl, x['course'].replace(' ', ''))].append(when)
+            elif x['holes'] and not any(g['name'] == x['user'] for g in info['guests']):
+                info['guests'].append({'name': x['user'], 'gross': int(x['total']), 'toPar': int(x['topar'])})
+    return extra
+
+
 def gp_rounds(gp):
     """Per player, 18-hole rounds (two nines on the same day/course are joined)."""
+    gp = list(gp) + load_groups(gp)
     by = collections.defaultdict(list)
     for r in gp:
         if r['player'] not in CORE:
@@ -252,23 +305,31 @@ def build():
             g = byp.get(p)
             rres = next((x for x in rkm['results'] if FULL.get(x['name'].lower()) == p), None) if rkm else None
             tp = trm['players'].get(p) if trm else None
-            if g:
+            gi0 = GROUP_INFO.get((d, key)) or {}
+            if g and p in gi0.get('dnf', ()) and g['mode'] != 'Multiplayer':
+                players[p] = {'status': 'dnf'}
+                notes.append(f"GOLF+ has {NAMES[p]} as a DNF in the group game; he finished the round later in single player ({g['score']}, {g['score'] - g['par']:+d}).".replace('+0', 'E'))
+            elif g:
                 players[p] = {'status': 'played', 'gross': g['score'], 'toPar': g['score'] - g['par'], 'holes': g['holeList'], 'src': 'golfplus'}
             elif tp and 'gross' in tp:
                 players[p] = {'status': 'played', 'gross': tp['gross'], 'toPar': tp['gross'] - tp['par'], 'src': 'tracker'}
             elif rres:
                 players[p] = {'status': 'played', 'gross': (par + rres['toPar']) if (par and not nine) else None, 'toPar': rres['toPar'], 'src': 'roger'}
             else:
-                st = (tp or {}).get('status') or note_status(notes, NAMES[p])
+                gi = GROUP_INFO.get((d, key)) or {}
+                st = 'dnf' if p in gi.get('dnf', ()) else ((tp or {}).get('status') or note_status(notes, NAMES[p]))
                 players[p] = {'status': st}
         played = [p for p in CORE if players[p]['status'] == 'played']
         if not played:
             continue
+        ginfo = GROUP_INFO.get((d, key)) or {}
         guests = []
         if rkm:
             for x in rkm['results']:
                 if x['name'].lower() not in FULL:
                     guests.append({'name': x['name'].split()[0], 'toPar': x['toPar'], 'gross': (par + x['toPar']) if par and not nine else None})
+        if not guests:
+            guests = [{'name': g['name'], 'toPar': g['toPar'], 'gross': g['gross']} for g in ginfo.get('guests', [])]
         rk_order = []
         if rkm:
             for x in rkm['results']:
@@ -284,8 +345,16 @@ def build():
         else:
             low = min(players[p]['toPar'] for p in played)
             tied = [p for p in played if players[p]['toPar'] == low]
+            gpos = {p: ginfo['pos'][p] for p in tied if p in ginfo.get('pos', {})}
             if len(tied) == 1:
                 share = {tied[0]: 1}
+            elif len(gpos) == len(tied) and any(tb == 'playoff' for _, tb in gpos.values()):
+                w = [p for p, (pos, tb) in gpos.items() if tb == 'playoff' and pos == '1']
+                share = {w[0]: 1} if w else {c: round(1 / len(tied), 3) for c in tied}; playoff = bool(w)
+                if w and rk_order:
+                    rk_top = [c for pos, tie, c in rk_order if c in tied][:1]
+                    if rk_top and rk_top[0] != w[0]:
+                        notes.append(f"GOLF+ records {NAMES[w[0]]} winning the playoff; Roger's site lists {NAMES[rk_top[0]]} first.")
             else:
                 order = [o for o in rk_order if o[2] in tied]
                 if order:
