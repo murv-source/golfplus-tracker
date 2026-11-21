@@ -1,4 +1,13 @@
 {
   "_about": "Manual rulings by Murv. Keyed by match date (YYYY-MM-DD). 'win' sets the winner share, 'count' true makes an unofficial round count, 'note' adds a note.",
-  "2026-09-04": {"win": {"roger": 1}, "note": "Roger played and won (even par); Murv confirmed it counts even though Roger's results page doesn't list him."}
+  "2026-09-04": {
+    "win": {
+      "roger": 1
+    },
+    "note": "Roger played and won (even par); Murv confirmed it counts even though Roger's results page doesn't list him."
+  },
+  "2025-12-13": {
+    "count": true,
+    "note": "Make-up match with all three; Murv confirmed it counts even though Roger's results page doesn't list it."
+  }
 }
