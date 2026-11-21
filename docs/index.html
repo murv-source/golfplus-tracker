@@ -17,13 +17,13 @@
 :root{color-scheme:light dark;
  --bg:#f4f5f1;--card:#ffffff;--ink:#101511;--ink2:#4a524b;--muted:#6d756e;--line:#e2e5df;--track:#eceee9;
  --band:#0d3b26;--band2:#0a2e1d;--bandInk:#f3f6ef;--bandMuted:#a9c2b2;--flag:#f2c230;
- --roger:#2a78d6;--jerry:#eb6834;--murv:#1baf7a;--good:#16794a;--bad:#b3412a;
+ --roger:#2a78d6;--jerry:#eb6834;--murv:#1baf7a;--good:#16794a;--under:#c0392b;--bad:#b3412a;
  --shadow:0 1px 2px rgba(10,30,20,.06),0 6px 20px rgba(10,30,20,.06)}
 @media (prefers-color-scheme:dark){:root:where(:not([data-theme=light])){
  --bg:#0b100d;--card:#131a16;--ink:#eef2ec;--ink2:#c0c8bf;--muted:#8f9a91;--line:#24302a;--track:#1c2621;
- --band:#0d3b26;--band2:#082317;--roger:#3987e5;--jerry:#d95926;--murv:#199e70;--good:#45c07f;--bad:#e2775c;--shadow:none}}
+ --band:#0d3b26;--band2:#082317;--roger:#3987e5;--jerry:#d95926;--murv:#199e70;--good:#45c07f;--bad:#e2775c;--under:#f07a6a;--shadow:none}}
 :root[data-theme=dark]{color-scheme:dark;--bg:#0b100d;--card:#131a16;--ink:#eef2ec;--ink2:#c0c8bf;--muted:#8f9a91;--line:#24302a;--track:#1c2621;
- --band2:#082317;--roger:#3987e5;--jerry:#d95926;--murv:#199e70;--good:#45c07f;--bad:#e2775c;--shadow:none}
+ --band2:#082317;--roger:#3987e5;--jerry:#d95926;--murv:#199e70;--good:#45c07f;--bad:#e2775c;--under:#f07a6a;--shadow:none}
 :root[data-theme=light]{color-scheme:light}
 *{box-sizing:border-box;min-width:0}
 html{scroll-padding-top:70px;scroll-behavior:smooth}
@@ -103,11 +103,20 @@ h2.sec{font:700 clamp(26px,3vw,34px)/1.1 "Barlow Condensed";margin:0 0 4px;lette
 .tag.win{background:var(--good);color:#fff}.tag.pro{background:var(--ink);color:var(--bg)}
 .scroll{overflow-x:auto}
 table.sc{border-collapse:separate;border-spacing:0;width:100%;font-size:13.5px;font-variant-numeric:tabular-nums}
-table.sc th,table.sc td{padding:6px 4px;text-align:center;border-bottom:1px solid var(--line);white-space:nowrap}
+table.sc th,table.sc td{padding:5px 3px;text-align:center;border-bottom:1px solid var(--line);white-space:nowrap}
 table.sc th:first-child,table.sc td:first-child{text-align:left;padding-left:2px;position:sticky;left:0;background:var(--card)}
 table.sc th{font-weight:600;color:var(--muted);font-size:12px}
-table.sc td.best{font-weight:700;color:var(--good)}
-table.sc td.ace{background:var(--flag);color:#221a00;font-weight:700;border-radius:6px}
+table.sc tr.par td{color:var(--muted);font-weight:600;background:var(--track)}
+table.sc tr.par td:first-child{background:var(--track)}
+.n{display:inline-flex;width:24px;height:24px;align-items:center;justify-content:center;line-height:1;font-variant-numeric:tabular-nums}
+.n.birdie,.n.eagle{border:1.5px solid currentColor;border-radius:50%;color:var(--under)}
+.n.eagle{box-shadow:0 0 0 2px var(--card),0 0 0 3.5px var(--under)}
+.n.bogey,.n.dbl{border:1.5px solid var(--ink2);border-radius:2px}
+.n.dbl{box-shadow:0 0 0 2px var(--card),0 0 0 3.5px var(--ink2)}
+.n.ace{background:var(--flag);color:#221a00;border-radius:50%;font-weight:700}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;margin:12px 0 0;padding-left:4px;font-size:12.5px;color:var(--muted)}
+.legend>span{display:inline-flex;align-items:center;gap:6px}
+.legend .n{width:20px;height:20px;font-size:11px}
 table.sc td.tot{font-weight:700}
 .h2h{display:grid;grid-template-columns:minmax(0,1fr);gap:12px}
 @media(min-width:760px){.h2h{grid-template-columns:repeat(3,minmax(0,1fr))}}
@@ -309,11 +318,15 @@ function resultRows(m){
 function scorecard(m){
  const pl=P.filter(p=>(m.players[p].holes||[]).length===18);
  if(!pl.length)return '';
- const best=Array.from({length:18},(_,h)=>Math.min(...pl.map(p=>m.players[p].holes[h])));
+ const hp=m.holePars&&m.holePars.length===18?m.holePars:null;
  const cols=Array.from({length:18},(_,h)=>h);
- const seg=(p,a,b)=>m.players[p].holes.slice(a,b).reduce((s,v)=>s+v,0);
- const cell=(p,h)=>{const v=m.players[p].holes[h];return `<td class="${v===1?'ace':(v===best[h]&&pl.length>1?'best':'')}">${v}</td>`};
- return `<div class="scroll"><table class="sc"><thead><tr><th>Hole</th>${cols.slice(0,9).map(h=>`<th>${h+1}</th>`).join('')}<th>Out</th>${cols.slice(9).map(h=>`<th>${h+1}</th>`).join('')}<th>In</th><th>Tot</th></tr></thead><tbody>${pl.map(p=>`<tr><td><span style="display:inline-flex;align-items:center;gap:6px"><span class="dot" style="background:${C(p)}"></span>${N[p]}</span></td>${cols.slice(0,9).map(h=>cell(p,h)).join('')}<td class="tot">${seg(p,0,9)}</td>${cols.slice(9).map(h=>cell(p,h)).join('')}<td class="tot">${seg(p,9,18)}</td><td class="tot">${seg(p,0,18)}</td></tr>`).join('')}</tbody></table></div><p class="note">Green marks the low score on each hole. Gold is a hole in one.</p>`;
+ const sum=(a,x,y)=>a.slice(x,y).reduce((s,v)=>s+v,0);
+ const cls=(v,h)=>{if(v===1)return 'ace';if(!hp)return '';const d=v-hp[h];return d<=-2?'eagle':d===-1?'birdie':d===1?'bogey':d>=2?'dbl':''};
+ const cell=(p,h)=>{const v=m.players[p].holes[h];return `<td><span class="n ${cls(v,h)}">${v}</span></td>`};
+ const parRow=hp?`<tr class="par"><td>Par</td>${cols.slice(0,9).map(h=>`<td>${hp[h]}</td>`).join('')}<td class="tot">${sum(hp,0,9)}</td>${cols.slice(9).map(h=>`<td>${hp[h]}</td>`).join('')}<td class="tot">${sum(hp,9,18)}</td><td class="tot">${sum(hp,0,18)}</td></tr>`:'';
+ const rows=pl.map(p=>{const s=m.players[p].holes;return `<tr><td><span style="display:inline-flex;align-items:center;gap:6px"><span class="dot" style="background:${C(p)}"></span>${N[p]}</span></td>${cols.slice(0,9).map(h=>cell(p,h)).join('')}<td class="tot">${sum(s,0,9)}</td>${cols.slice(9).map(h=>cell(p,h)).join('')}<td class="tot">${sum(s,9,18)}</td><td class="tot">${sum(s,0,18)}</td></tr>`}).join('');
+ const legend=hp?`<div class="legend"><span><span class="n eagle">2</span>Eagle or better</span><span><span class="n birdie">3</span>Birdie</span><span><span class="n">4</span>Par</span><span><span class="n bogey">5</span>Bogey</span><span><span class="n dbl">6</span>Double bogey+</span><span><span class="n ace">1</span>Hole in one</span></div>`:'<p class="note">Hole pars aren\'t on file for this round, so scores are shown without markings.</p>';
+ return `<div class="scroll"><table class="sc"><thead><tr><th>Hole</th>${cols.slice(0,9).map(h=>`<th>${h+1}</th>`).join('')}<th>Out</th>${cols.slice(9).map(h=>`<th>${h+1}</th>`).join('')}<th>In</th><th>Tot</th></tr></thead><tbody>${parRow}${rows}</tbody></table></div>${legend}`;
 }
 
 function metaPills(m){return [m.par?`Par ${m.par}`:'',m.tees?`${m.tees} tees`:'',m.pins?`${m.pins} pins`:'',m.wind?`${m.wind[0].toUpperCase()+m.wind.slice(1)} wind`:'',m.yds?`${m.yds.toLocaleString()} yds`:'',m.pro?'Pro difficulty':''].filter(Boolean).map(t=>`<span class="pill">${t}</span>`).join('')}

@@ -43,7 +43,8 @@ PRETTY = {
     'omnilacostanorth': 'Omni La Costa North', 'tearainorth': 'Te Arai North', 'tearaisouth': 'Te Arai South',
     'kapalua': 'Kapalua Plantation', 'medinah3': 'Medinah No. 3', 'savemuny': 'Save Muny', 'bellerive': 'Bellerive', 'castlelinks': 'Castle Links',
 }
-PT = timezone(timedelta(hours=-8))  # good enough for date bucketing of 8 AM PT rounds
+PT = timezone(timedelta(hours=-8))
+HP = {}  # good enough for date bucketing of 8 AM PT rounds
 
 
 def norm(s):
@@ -61,6 +62,23 @@ def pt_date(iso):
     nov = datetime(y, 11, 1, 9, tzinfo=timezone.utc); nov += timedelta(days=(6 - nov.weekday()) % 7)
     off = -7 if mar <= dt < nov else -8
     return (dt + timedelta(hours=off)).date().isoformat()
+
+
+def load_pars():
+    out = {}
+    p = os.path.join(ROOT, 'data', 'hole_pars.txt')
+    if os.path.exists(p):
+        for line in open(p):
+            parts = line.strip().split('|')
+            if len(parts) != 3:
+                continue
+            c, tee, pars = parts
+            hp = [int(x) for x in pars.split('.') if x]
+            if len(hp) == 18:
+                out.setdefault((c.replace(' ', ''), tee), hp)
+                out.setdefault((c.replace(' ', ''), '*'), hp)
+                out.setdefault((norm(c.replace(' ', '')), '*'), hp)
+    return out
 
 
 def load():
@@ -132,6 +150,8 @@ def note_status(notes, name):
 
 
 def build():
+    global HP
+    HP = load_pars()
     gp, rk, sched, tr = load()
     trk = parse_tracker(tr)
     gpr = gp_rounds(gp)
@@ -275,8 +295,15 @@ def build():
                     share = {trm['win']: 1}; playoff = True
                 else:
                     share = {c: round(1 / len(tied), 3) for c in tied}
+        hp = None
+        if any_gp:
+            raw = any_gp['course'].replace(' ', '')
+            hp = HP.get((raw, any_gp['tee'])) or HP.get((raw, '*'))
+        hp = hp or HP.get((key, '*'))
+        if hp and par and sum(hp) != par:
+            hp = None
         m = {
-            'id': f"{d}-{key}", 'date': d, 'dow': date.fromisoformat(d).strftime('%A'),
+            'id': f"{d}-{key}", 'date': d, 'holePars': hp, 'dow': date.fromisoformat(d).strftime('%A'),
             'key': key, 'course': pretty.get(key) or (rkm and re.sub(r'(?i)\s*\*?new course\*?|\s+new$', '', rkm['course']).strip()) or key,
             'par': par, 'tees': (any_gp and any_gp['tee'].title()) or (trm and trm['tees']) or (rkm and rkm['tees']),
             'pins': (any_gp and any_gp['pin'].title()) or (trm and trm['pins']) or (rkm and rkm['pins']),
